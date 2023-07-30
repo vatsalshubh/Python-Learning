@@ -5,7 +5,7 @@ b = "2"
 print(int(a) + int(b))
 
 # implicit typecasting
-c = 1.9
-d = 8
+c = 5.846578
+d = 8.657
 
 print(c + d)
